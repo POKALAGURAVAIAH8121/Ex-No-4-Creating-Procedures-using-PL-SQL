@@ -11,10 +11,10 @@
 6. Display the employee table
 
 ### Program:
-```
+
 ![image](https://github.com/POKALAGURAVAIAH8121/Ex-No-4-Creating-Procedures-using-PL-SQL/assets/128034765/8a4a891f-f8e7-418c-9c4c-3ebbf0f12695)
 
-```
+
 
 ### Output:
 
