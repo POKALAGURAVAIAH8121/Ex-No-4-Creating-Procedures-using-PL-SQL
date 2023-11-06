@@ -11,7 +11,16 @@
 6. Display the employee table
 
 ### Program:
+```
+![image](https://github.com/POKALAGURAVAIAH8121/Ex-No-4-Creating-Procedures-using-PL-SQL/assets/128034765/8a4a891f-f8e7-418c-9c4c-3ebbf0f12695)
+
+```
 
 ### Output:
 
+![image](https://github.com/POKALAGURAVAIAH8121/Ex-No-4-Creating-Procedures-using-PL-SQL/assets/128034765/2118fd56-bf4c-4bfa-84eb-11445a538343)
+
+
 ### Result:
+
+The program has been implimented successfully 
